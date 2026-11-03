@@ -10,7 +10,7 @@ BAR is an ephemeral data exchange platform engineered to leave zero trace.
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python: 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Node.js: 18+](https://img.shields.io/badge/Node.js-18%2B-green.svg)](https://nodejs.org/)
-[![CI Pipeline](https://github.com/Mrtracker-new/BAR_RYY/actions/workflows/ci.yml/badge.svg)](https://github.com/Mrtracker-new/BAR_RYY/actions/workflows/ci.yml)
+[![CI Pipeline](https://github.com/rolan-r-n-r/BAR_RYY/actions/workflows/ci.yml/badge.svg)](https://github.com/rolan-r-n-r/BAR_RYY/actions/workflows/ci.yml)
 [![Tests: 225 Passed](https://img.shields.io/badge/Tests-225%20Passed-brightgreen.svg)](docs/DEVELOPMENT.md#6-testing-quality-assurance--cicd)
 [![Live Demo](https://img.shields.io/badge/Demo-bar--rnr.vercel.app-success.svg)](https://bar-rnr.vercel.app/)
 
@@ -61,7 +61,7 @@ Access the hosted deployment: **[bar-rnr.vercel.app](https://bar-rnr.vercel.app/
 
 #### Windows
 ```cmd
-git clone https://github.com/Mrtracker-new/BAR_RYY.git
+git clone https://github.com/rolan-r-n-r/BAR_RYY.git
 cd BAR_RYY
 setup.bat
 start.bat

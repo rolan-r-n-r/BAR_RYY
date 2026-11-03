@@ -303,7 +303,7 @@ function Navbar({ onLaunch }) {
 
             {/* Ghost link — GitHub */}
             <a
-              href="https://github.com/Mrtracker-new/BAR_RYY"
+              href="https://github.com/rolan-r-n-r/BAR_RYY"
               target="_blank"
               rel="noreferrer"
               className="lp-nav-link"
@@ -1225,7 +1225,7 @@ const LandingPage = () => {
           {/* Footer links */}
           <div style={{ display: "flex", alignItems: "center", gap: "1rem" }}>
             <a
-              href="https://github.com/Mrtracker-new/BAR_RYY"
+              href="https://github.com/rolan-r-n-r/BAR_RYY"
               target="_blank" rel="noreferrer"
               style={{
                 fontSize: "var(--text-xs)",      /* 12px — fine for footer links */
